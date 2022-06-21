@@ -1,2 +1,2 @@
-# react-creative-project
-# creative-project
+# Интернет магазин созданный в рамках "Творческого проекта"
+# выполненный с помощью React.js
